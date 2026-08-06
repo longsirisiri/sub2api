@@ -120,6 +120,8 @@ tests
 !deploy/tests/**
 .claude
 scripts
+!/scripts/
+/scripts/.run/
 !backend/scripts/
 !backend/scripts/resolve-version.sh
 .code-review-state
